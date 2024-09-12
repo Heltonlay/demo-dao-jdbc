@@ -6,7 +6,7 @@ import model.entities.Seller;
 
 public class DaoFactory {
 
-	public static Dao<Seller> createSellerDao() {
+	public static SellerDao createSellerDao() {
 		return new SellerDaoJDBC(DB.getConnection());
 	}
 }
