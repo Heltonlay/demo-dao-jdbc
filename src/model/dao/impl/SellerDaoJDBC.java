@@ -18,7 +18,7 @@ import model.entities.Seller;
 
 public class SellerDaoJDBC implements SellerDao {
 
-	private static Connection conn = null;
+	private Connection conn = null;
 
 	public SellerDaoJDBC(Connection conn) {
 		this.conn = conn;
