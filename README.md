@@ -4,8 +4,8 @@ All the classes are organized in packages by:
 
 <ul>
 <li>application</li>
-<li>model.entities/li>
-<li>DB/li>
+<li>model.entities</li>
+<li>DB</li>
 <ul>
 
 made with Eclipse IDE.
