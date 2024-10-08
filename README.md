@@ -6,5 +6,5 @@ All the classes are organized in packages by:
   <li>application</li>
   <li>model.entities</li>
   <li>DB</li>
-<ul>
-<br>made with Eclipse IDE.
+<br>
+</ul>made with Eclipse IDE.
